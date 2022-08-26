@@ -1,0 +1,5 @@
+Flask==2.2.1
+Flask-Cors==3.0.10
+Flask-PyMongo==2.3.0
+geocoder==1.38.1
+python-dotenv==0.20.0
